@@ -7,7 +7,7 @@ Pour la suite du module, vous allez développer une application en PHP sans base
 Vous trouverez les fichiers nécessaires. Pour commencer, clonez ce dépôt. Il est important de garder la structure proposée car elle répond à des normes qui permettent de programmer votre site de façon plus professionnelle.
 
 Le template en question utilise Boostrap ce qui implique que vous pouvez utiliser les classes existantes sans souci. 
-Le site que vous allez créer aura les fonctionnalités suivantes :
+Le site que vous allez créer aura les **fonctionnalités** suivantes :
 
 - calendrier du mois avec choix de jour
 - login avec contrôle sur un fichier de cookie
